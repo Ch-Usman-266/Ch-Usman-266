@@ -37,8 +37,6 @@ As a **Full Stack Engineer** and **Integration Specialist**, I architect end-to-
 
 ## 🛠️ Tech Stack & Expertise
 
----
-
 ### 🎨 Frontend Development
 
 **Core Technologies**
