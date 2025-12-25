@@ -34,7 +34,6 @@ As a **Full Stack Engineer** and **Integration Specialist**, I architect end-to-
 
 ---
 
-**## 🛠️ Tech Stack & Expertise
 
 ## 🛠️ Tech Stack & Expertise
 
