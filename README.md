@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chaudhry-usman-ali/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:usmanali266s@gmail.com)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Ch-Usman-266&icon=0&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Ch-Usman-266&color=blueviolet&style=for-the-badge)
 
 </div>
 
