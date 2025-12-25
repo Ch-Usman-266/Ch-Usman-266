@@ -242,36 +242,34 @@ As a **Full Stack Engineer** and **Integration Specialist**, I architect end-to-
 
 ### 💼 Architecture & Best Practices
 
-```typescript
-const technicalExpertise = {
-  architecturePatterns: [
-    "Microservices Architecture",
-    "Event-Driven Architecture", 
-    "Serverless Computing",
-    "API-First Development",
-    "Clean Architecture",
-    "Domain-Driven Design"
-  ],
-  
-  methodologies: [
-    "Agile/Scrum",
-    "Test-Driven Development (TDD)",
-    "Continuous Integration/Deployment",
-    "DevOps Culture",
-    "GitFlow Workflow"
-  ],
-  
-  coreCompetencies: [
-    "Full-Stack SaaS Development",
-    "AI-Powered Applications",
-    "Enterprise Integrations", 
-    "Agentic Process Automation",
-    "Real-time Systems",
-    "Cloud-Native Solutions",
-    "Mobile Development"
-  ]
-};
-```
+**Architecture Patterns:**  
+Microservices • Event-Driven • Serverless • API-First • Clean Architecture • Domain-Driven Design • CQRS • Hexagonal Architecture
+
+**Design Patterns:**  
+Singleton • Factory • Abstract Factory • Repository • Service Layer • Dependency Injection • Observer • Strategy • Adapter • Decorator • Middleware • Builder
+
+**Frontend Patterns (React):**  
+Container/Presentational • Higher-Order Components (HOC) • Render Props • Custom Hooks • Compound Components • Provider Pattern • Atomic Design • Feature-Sliced Design
+
+**State Management Patterns:**  
+Redux Saga • Redux Thunk • Flux • MobX • Zustand • Context + Reducer • Redux Toolkit (RTK Query)
+
+**Backend Patterns (Node.js):**  
+Controller-Service-Repository • Layered Architecture • MVC • API Gateway • Circuit Breaker • Rate Limiting • Caching Strategies • Queue-Based Load Leveling
+
+**Development Methodologies:**  
+Agile/Scrum • Test-Driven Development (TDD) • Behavior-Driven Development (BDD) • CI/CD • DevOps Culture • GitFlow • Trunk-Based Development
+
+**Core Specializations:**
+- 🚀 Full-Stack SaaS Development
+- 🤖 AI-Powered Applications  
+- 🔄 Agentic Process Automation (N8N, Nango)
+- 🔗 Enterprise Integration Solutions
+- 📡 Real-time & Event-Driven Systems
+- ☁️ Cloud-Native Architecture
+- 📱 Cross-Platform Mobile Development
+- 🏗️ Microservices & Distributed Systems
+- 🔐 Secure API Design & Authentication
 
 ---
 
@@ -279,11 +277,11 @@ const technicalExpertise = {
 
 <div align="center">
   
-![Ch-Usman-266's Stats](https://github-readme-stats.vercel.app/api?username=Ch-Usman-266&theme=dark&show_icons=true&hide_border=true&count_private=false)
+![Ch-Usman-266's Stats](https://github-readme-stats.vercel.app/api?username=Ch-Usman-266&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Ch-Usman-266's Streak](https://nirzak-streak-stats.vercel.app/?user=Ch-Usman-266&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Usman-266&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Usman-266&theme=dark&hide_border=true&layout=donut)
 
 </div>
 
@@ -299,13 +297,14 @@ const technicalExpertise = {
 
 ---
 
+<!--
+
 ## 🏗️ Featured Projects & Achievements
 
 > **Add your standout projects here to showcase your expertise**
 
 ### 🌟 Highlighted Repositories
 
-<details>
 <summary><b>📦 [Project Name] - [Brief Description]</b></summary>
 
 **Tech Stack:** React, Node.js, MongoDB, AWS  
@@ -322,9 +321,7 @@ const technicalExpertise = {
 
 [🔗 Live Demo](#) | [📖 Documentation](#) | [💻 Repository](#)
 
-</details>
 
-<details>
 <summary><b>🤖 [AI/Automation Project] - [Brief Description]</b></summary>
 
 **Tech Stack:** N8N, Nango, Node.js, OpenAI API  
@@ -336,9 +333,7 @@ const technicalExpertise = {
 
 [🔗 Repository](#) | [📖 Documentation](#)
 
-</details>
 
-<details>
 <summary><b>🏗️ [Microservices Project] - [Brief Description]</b></summary>
 
 **Tech Stack:** NestJS, PostgreSQL, GraphQL, Docker, Kubernetes  
@@ -350,9 +345,10 @@ const technicalExpertise = {
 
 [🔗 Repository](#) | [📖 Documentation](#)
 
-</details>
 
 ### 🎓 Certifications & Learning
+
+-->
 
 <!-- Add your certifications here -->
 - 📜 [Certification Name] - [Issuing Organization] - [Year]
@@ -363,33 +359,6 @@ const technicalExpertise = {
 <!-- Add your talks, articles, or blog posts here -->
 - 🎤 [Talk/Workshop Title] - [Event Name] - [Date]
 - ✍️ [Article Title] - [Publication] - [Link]
-
----
-
-## 💼 What I Do
-
-```typescript
-const skills = {
-  architecture: ["Microservices", "Event-Driven", "Serverless", "Cloud-Native"],
-  frontend: ["React", "Next.js", "React Native", "TypeScript", "Redux"],
-  backend: ["Node.js", "NestJS", "Express", "GraphQL", "REST APIs"],
-  databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "DynamoDB"],
-  cloud: ["AWS", "Azure", "Docker", "Kubernetes", "Terraform"],
-  automation: ["N8N", "Nango", "GitHub Actions", "CI/CD Pipelines"],
-  ai_ml: ["AI Integration", "LLM Applications", "Intelligent Automation"],
-  mobile: ["React Native", "Expo", "Cross-Platform Development"],
-  testing: ["Jest", "Cypress", "Testing Library", "E2E Testing"],
-  practices: ["TDD", "Clean Architecture", "Design Patterns", "Agile/Scrum"]
-};
-
-const expertise = {
-  saas_development: "Building scalable, multi-tenant SaaS platforms",
-  ai_powered_apps: "Integrating AI/ML into production applications",
-  automation_expert: "End-to-end agentic process automation",
-  integration_specialist: "Complex system integrations and API orchestration",
-  full_stack_mastery: "From pixel-perfect UIs to robust backend architectures"
-};
-```
 
 ---
 
@@ -417,6 +386,8 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 ## 📈 Contribution Activity
 
+<!--
+
 <div align="center">
 
 ### 🔝 Top Contributed Repositories
@@ -426,12 +397,14 @@ I'm always excited to work on innovative projects and connect with fellow develo
 </div>
 
 ---
+-->
 
 <div align="center">
 
+
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 ### ✨ Thanks for visiting!
 
