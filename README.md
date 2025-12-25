@@ -34,7 +34,7 @@ As a **Full Stack Engineer** and **Integration Specialist**, I architect end-to-
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+**## 🛠️ Tech Stack & Expertise
 
 ### 💻 Core Technologies
 
@@ -194,7 +194,7 @@ Azure Front Door • Azure Functions
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-
+**
 ---
 
 ### 🔧 Development Tools
