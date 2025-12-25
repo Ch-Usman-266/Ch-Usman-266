@@ -274,15 +274,13 @@ Agile/Scrum • Test-Driven Development (TDD) • Behavior-Driven Development (B
 
 <div align="center">
   
-![Ch-Usman-266's Stats](https://github-readme-stats.vercel.app/api?username=Ch-Usman-266&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
 ![Ch-Usman-266's Streak](https://nirzak-streak-stats.vercel.app/?user=Ch-Usman-266&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Usman-266&theme=dark&hide_border=true&layout=donut)
 
 </div>
 
 ---
+
+<!--
 
 ## 🏆 GitHub Trophies
 
@@ -293,6 +291,8 @@ Agile/Scrum • Test-Driven Development (TDD) • Behavior-Driven Development (B
 </div>
 
 ---
+
+-->
 
 <!--
 
