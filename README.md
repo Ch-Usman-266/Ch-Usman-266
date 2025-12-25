@@ -348,16 +348,27 @@ Agile/Scrum • Test-Driven Development (TDD) • Behavior-Driven Development (B
 -->
 
 <!-- Add your certifications here -->
-- 📜 [Certification Name] - [Issuing Organization] - [Year]
-- 📜 [Certification Name] - [Issuing Organization] - [Year]
 
+<!--
+- 📜 [Certification Name] - [Issuing Organization] - [Year]
+- 📜 [Certification Name] - [Issuing Organization] - [Year]
+-->
+
+
+<!--
 ### 📝 Publications & Speaking
+-->
 
 <!-- Add your talks, articles, or blog posts here -->
+
+<!--
 - 🎤 [Talk/Workshop Title] - [Event Name] - [Date]
 - ✍️ [Article Title] - [Publication] - [Link]
+-->
 
 ---
+
+
 
 ## 🤝 Let's Collaborate!
 
